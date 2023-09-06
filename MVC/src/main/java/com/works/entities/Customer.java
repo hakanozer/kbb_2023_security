@@ -33,6 +33,6 @@ public class Customer {
     //@Max(99)
     //@Min(18)
     //@NotNull
-    private Integer age;
+    //private Integer age;
 
 }
